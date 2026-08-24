@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 72" role="img" aria-label="Cruise America RV Rentals">
+  <style>
+    .ca-top { font: italic 800 34px 'Nunito Sans', 'Helvetica Neue', Arial, sans-serif; }
+    .ca-sub { font: 800 13px 'Nunito Sans', 'Helvetica Neue', Arial, sans-serif; letter-spacing: 6px; }
+  </style>
+  <text x="8" y="34" class="ca-top" fill="#C8102E">CRUISE</text>
+  <text x="138" y="34" class="ca-top" fill="#003087">AMERICA</text>
+  <path d="M150 44 h120" stroke="#C8102E" stroke-width="4" stroke-linecap="round"/>
+  <path d="M8 44 h130" stroke="#003087" stroke-width="4" stroke-linecap="round"/>
+  <text x="9" y="66" class="ca-sub" fill="#33566B">RV RENTAL &amp; SALES</text>
+</svg>
